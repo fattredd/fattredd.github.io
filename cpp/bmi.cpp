@@ -9,11 +9,13 @@ float calcBMI(int weight,int height) {
 	return n/d;
 }
 
+float le(float x){return 0.035*(x*x)-0.4524*x+15.33;}
+float me(float x){return 0.033*(x*x)-0.136*x+17.6485;}
+float ue(float x){return 0.0343*(x*x)-0.0075*x+18.5629;}
+float ae(float x){return x;}//will fix to be average bmi
+
 string bmiAverage(float bmi,int age) {
 	if (age<20) {
-		auto le=[](float x)->float{return 0.035*(x*x)-0.4524*x+15.33;};
-		auto me=[](float x)->float{return 0.033*(x*x)-0.136*x+17.6485;};
-		auto ue=[](float x)->float{return 0.0343*(x*x)-0.0075*x+18.5629;};
 		if (bmi<le(bmi)) return "underweight";
 		if (bmi>=le(bmi)&&bmi<=me(bmi)) return "normal";
 		if (bmi>me(bmi)&&bmi<=ue(bmi)) return "overweight";
@@ -30,13 +32,18 @@ string bmiAverage(float bmi,int age) {
 int main() {
 	int weight;
 	int height;
-	cout<<"\nBMI Calculator\n\n";
-	cout<<"Enter weight: ";
+	int age;
+	cout<<"\n################"<<endl;
+	cout<<"#BMI Calculator#"<<endl;
+	cout<<"################\n\n";
+	cout<<"Enter weight (lbs): ";
 	cin>>weight;
-	cout<<"\nEnter height: ";
+	cout<<"Enter height (in): ";
 	cin>>height;
+	cout<<"Enter age (yrs): ";
+	cin>>age;
 	float bmi=calcBMI(weight,height);
 	cout<<"\n\nYour BMI is "<<bmi;
-	cout<<"\nFor your age, you are "<<bmiAverage<<endl;
+	cout<<"\nFor your age, you are "<<bmiAverage(bmi,age)<<endl;
 	return 0;
 }
