@@ -1,2 +1,6 @@
 *.out
 *.pyc
+*.exe
+*.o
+*.a
+*.obj
