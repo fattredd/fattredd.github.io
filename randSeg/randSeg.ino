@@ -61,6 +61,8 @@ void loop(){
       buffer2 = (buffer2<<1) + getVal(1);
       delayMicroseconds(5);
     }
+  } else {
+    delay(1);
   }
   //first display
   digitalWrite(9,LOW);
@@ -73,7 +75,7 @@ void loop(){
       digitalWrite(i+2,LOW);
     }
   }
-
+  delay(1);
   //second display
   digitalWrite(10,LOW);
   digitalWrite(9,HIGH);
@@ -85,7 +87,6 @@ void loop(){
       digitalWrite(i+2,LOW);
     }
   }
-
 }
 
 
