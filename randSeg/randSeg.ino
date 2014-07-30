@@ -55,14 +55,14 @@ void loop(){
   if (latch==0){
     for (int i=0;i<4;i++) { //get 4 bits to use for the number
       buffer1 = (buffer1<<1) + getVal(1);
-      delayMicroseconds(5);
+      delayMicroseconds(1);
     }
     for (int i=0;i<4;i++) { //get 4 bits to use for the number
       buffer2 = (buffer2<<1) + getVal(1);
-      delayMicroseconds(5);
+      delayMicroseconds(1);
     }
   } else {
-    delay(1);
+    delayMicroseconds(2);
   }
   //first display
   digitalWrite(9,LOW);
@@ -75,7 +75,7 @@ void loop(){
       digitalWrite(i+2,LOW);
     }
   }
-  delay(1);
+  delayMicroseconds(2);
   //second display
   digitalWrite(10,LOW);
   digitalWrite(9,HIGH);
