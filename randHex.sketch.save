@@ -1,0 +1,5 @@
+//RandHex
+
+void setup(){
+	pinmode(0,
+}

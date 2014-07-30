@@ -1,7 +1,4 @@
 #include <iostream>
-#include <string>
-
-using namespace std;
 
 //////////////////////
 //                  //
@@ -12,7 +9,7 @@ using namespace std;
 
 int main(int argc,char** args){
 	for (int i=0;i<argc;i++){
-		cout<<i<<" - "<<args[i]<<endl;
+		std::cout<<i<<" - "<<args[i]<<std::endl;
 	}
 	//master();
 	return 0;
