@@ -1,0 +1,154 @@
+body {
+	width: 60%;
+	margin-right: 20%;
+	margin-left: 20%;
+	background-attachment: fixed;
+	background-image: url(bg-1080-small.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#wrapper_main p {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 25px;
+	float: none;
+}
+#wrapper_main h2 {
+	font-size: 36px;
+	font-style: italic;
+	color: #00F;
+	margin: 0px;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+
+
+#wrapper_main h3 {
+	color: #000;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	font-size: 24px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	font-style: italic;
+}
+
+
+#wrapper_main form {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 25px;
+	float: none;
+}
+
+
+ul {
+	background-color: #0CF;
+	font-size: 16px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-right: 20px;
+	padding-left: 20px;
+	float: left;
+}
+a {
+	color: #000;
+}
+
+#wrapper_main {
+	clear: both;
+	background-color: #FFF;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 25px;
+	padding-left: 15px;
+	float: right;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	border: thick solid #0CF;
+}
+
+#logo {
+	float: left;
+	margin-left: 5px;
+}
+#menubar {
+	float: right;
+	margin-top: 150px;
+	width: 500px;
+}
+#footer {
+	background-color: #FFF;
+	clear: both;
+	float: none;
+	border-top-width: thick;
+	border-right-width: thick;
+	border-bottom-width: thick;
+	border-left-width: thick;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #0FF;
+	border-right-color: #0FF;
+	border-bottom-color: #0FF;
+	border-left-color: #0FF;
+	padding-right: 20%;
+	padding-left: 20%;
+	margin-top: 0px;
+	margin-bottom: 25px;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+#status {
+	font-weight: bold;
+	color: #F00;
+}
+.about_wrapper img {
+	float: left;
+}
+#map {
+	clear: both;
+}
+#map h3 {
+	padding-top: 35px;
+}
+
+#map img {
+	float: left;
+	padding-left: 30px;
+}
+
+#map iframe {
+	float: left;
+	padding-left: 30px;
+}
+
+.about_wrapper h3 {
+	clear: both;
+}
+.about_wrapper p {
+	float: right;
+	margin-top: 25px;
+	padding-top: 15px;
+}
+p #video {
+	padding-left: 50px;
+}
