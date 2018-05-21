@@ -76,7 +76,7 @@ $(document).ready(function(event) {
 	    // add the random line in a div
 	    document.getElementById('randQuote').innerHTML = randomLine;
 	};
-	request.open('GET', 'http://rigidgear.com/quotes.txt', true );
+	request.open('GET', 'quotes.txt', true );
 	request.send();
 });
 
