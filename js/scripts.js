@@ -30,7 +30,8 @@ $(document).ready(function(event) {
 	var mascotEnable    = true;
 	var mascotPath      = "images/mascots/"
 	var mascotList      = [
-			'mikasa.png'
+			'mikasaLeft.png',
+			'royo.png'
 			];
 	var mascot         = mascotPath + mascotList[Math.floor(Math.random() * mascotList.length)];
 	var mascotMinWidth = '650';
