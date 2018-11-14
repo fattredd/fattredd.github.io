@@ -29,9 +29,31 @@ function removeMascot() {
 $(document).ready(function(event) {
 	var mascotEnable    = true;
 	var mascotPath      = "images/mascots/"
-	var mascotList      = [
-			'mikasa.png'
+	var mascotList      = [ // Inapropriate images marked with //*
+			'mikasa.png',
+			//*'yoko.png',
+			'sakata.png',
+			'aang.png',
+			'akane.png',
+			'akane2.png',
+			'kogami.png',
+			'akaneKogami.png',
+			//*'chitoge.png',
+			//*'onodera.png',
+			//*'onodera2.png',
+			//*'ryo.png',
+			//*'erza.png',
+			'ryuko2.png',
+			//'chiho.png',
+			'FarmerSteven.png',
+			'morty.png',
+			'regular.png',
+			'soos.png',
+			'steven.png'
 			];
+			/* To add:
+				Nobody atm
+			//*/
 	var mascot         = mascotPath + mascotList[Math.floor(Math.random() * mascotList.length)];
 	var mascotMinWidth = '650';
 
