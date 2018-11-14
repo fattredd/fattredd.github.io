@@ -199,25 +199,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3774,
+				"buffer_size": 3954,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "css/dark.css",
+			"file": "robots.txt",
 			"settings":
 			{
-				"buffer_size": 3310,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/scripts.js",
-			"settings":
-			{
-				"buffer_size": 1928,
-				"encoding": "UTF-8",
+				"buffer_size": 36,
 				"line_ending": "Windows"
 			}
 		}
@@ -419,6 +410,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/butlerj2/Documents/fattredd.github.io/js/scripts.js",
+		"/C/Users/butlerj2/Documents/fattredd.github.io/robots.txt",
 		"/C/Users/butlerj2/Documents/fattredd.github.io/splash.html",
 		"/C/Users/butlerj2/AppData/Roaming/Sublime Merge/Packages/User/Commit Message.sublime-settings",
 		"/C/Users/butlerj2/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
@@ -544,9 +537,7 @@
 		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax20_KeyBelts_OPS_90_180/Cyclic.ld",
 		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax22_KeyBelts_DS_90_180/Cyclic.ld",
 		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax28_BlowerTrim_OPS/Cyclic.ld",
-		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax26_Rail_Vacuum_OPS/Cyclic.ld",
-		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax27_Rail_Vacuum_DS/Cyclic.ld",
-		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax25_Rail_DS/Cyclic.ld"
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax26_Rail_Vacuum_OPS/Cyclic.ld"
 	],
 	"find":
 	{
@@ -833,7 +824,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -842,15 +833,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3774,
+						"buffer_size": 3954,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1858,
-								1858
+								2722,
+								2722
 							]
 						],
 						"settings":
@@ -860,69 +851,38 @@
 							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 702.0,
+						"translation.y": 670.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/dark.css",
+					"file": "robots.txt",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 3310,
+						"buffer_size": 36,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								352,
-								358
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "js/scripts.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1928,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1060,
-								1060
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 273.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
