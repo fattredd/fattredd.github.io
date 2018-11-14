@@ -1,0 +1,977 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stat",
+				"statusFeedFaulted"
+			],
+			[
+				"sta",
+				"statusRunFaulted"
+			],
+			[
+				"status",
+				"statusFeedFaulted"
+			],
+			[
+				"Se",
+				"SelectedAxisType"
+			],
+			[
+				"Al",
+				"allFaults"
+			],
+			[
+				"user",
+				"userValid"
+			],
+			[
+				"min",
+				"minViewers"
+			],
+			[
+				"mi",
+				"minViewers"
+			],
+			[
+				"time",
+				"timeLeft"
+			],
+			[
+				"res",
+				"resetTime"
+			],
+			[
+				"va",
+				"valid"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"gam",
+				"game_id"
+			],
+			[
+				"get",
+				"getStreams"
+			],
+			[
+				"val",
+				"vals"
+			],
+			[
+				"re",
+				"reader"
+			],
+			[
+				"Stre",
+				"Streamer"
+			],
+			[
+				"tra",
+				"transpath"
+			],
+			[
+				"int",
+				"intExpand"
+			],
+			[
+				"la",
+				"helpLang"
+			],
+			[
+				"uni",
+				"unicodedata"
+			],
+			[
+				"wi",
+				"winamp"
+			],
+			[
+				"de",
+				"device_id"
+			],
+			[
+				"son",
+				"songPath"
+			],
+			[
+				"ab",
+				"absPaths"
+			],
+			[
+				"lg",
+				"length"
+			],
+			[
+				"mak",
+				"makePath"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"pla",
+				"playlist"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"p",
+				"plyname"
+			],
+			[
+				"ep",
+				"episodes"
+			],
+			[
+				"e",
+				"episode"
+			],
+			[
+				"do",
+				"download_file"
+			],
+			[
+				"find",
+				"find_elements_by_tag_name"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"fi",
+				"find_element_by_id"
+			],
+			[
+				"rep",
+				"replaceInFile"
+			],
+			[
+				"se",
+				"secondRowTxt"
+			],
+			[
+				"fir",
+				"firstRowTxt"
+			],
+			[
+				"new",
+				"newRungi"
+			],
+			[
+				"loc",
+				"location2"
+			],
+			[
+				"SECO",
+				"secondRowTxt"
+			],
+			[
+				"FI",
+				"firstRowi1"
+			],
+			[
+				"first",
+				"firstRowi2"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"split",
+				"splitName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4939,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 2330,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"num",
+				"Insert Nums"
+			],
+			[
+				"find",
+				"Text Pastry: Find"
+			],
+			[
+				"fin",
+				"Text Pastry: Find"
+			],
+			[
+				"sspy",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"nu",
+				"Insert Nums"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inser",
+				"Insert Nums"
+			],
+			[
+				"sspasc",
+				"Set Syntax: Pascal"
+			],
+			[
+				"ss pas",
+				"Set Syntax: Pascal"
+			],
+			[
+				"ssxm",
+				"Set Syntax: XML"
+			],
+			[
+				"",
+				"Insert Nums"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"pasty",
+				"Text Pastry: Find"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			],
+			[
+				"insert",
+				"Insert Nums"
+			],
+			[
+				"pastry",
+				"Text Pastry: Show Piping Bag"
+			],
+			[
+				"pastry ",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"ss md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ss pasc",
+				"Set Syntax: Pascal"
+			],
+			[
+				"ss per",
+				"Set Syntax: Perl"
+			],
+			[
+				"ss htl",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss c",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"ss con",
+				"Set Syntax: Git Config"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ss conf",
+				"Set Syntax: Git Config"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sslatex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ssm3",
+				"Set Syntax: M3U"
+			],
+			[
+				"ss mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"js",
+				"Pretty JSON: Validate"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/butlerj2/Documents/fattredd.github.io",
+		"/C/Users/butlerj2/Documents/fattredd.github.io/images"
+	],
+	"file_history":
+	[
+		"/C/Users/butlerj2/AppData/Roaming/Sublime Merge/Packages/User/Commit Message.sublime-settings",
+		"/C/Users/butlerj2/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/C/Users/butlerj2/Documents/fattredd.github.io/.gitignore",
+		"/C/Users/butlerj2/Desktop/GGXgen2/notes",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/VisFeed/Expressions/ExpressionType.expressiontype",
+		"/C/Users/butlerj2/Desktop/GGXgen2/.gitignore",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/GeneralTasks/MachineConfig/SystemDefaults.st",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Physical/GGX_Gen2/5APC2100_BY48_000/mappView/EventBinding.eventbinding",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/GeneralTasks/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/Ups/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/SymbolLib/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/NP_ComboBox/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/Manifest/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/Indicators/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/Icons/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/Folder/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/FeedEnd/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/AxisDiagnostics/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/VisFeed/Pages/AreaContents/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/VisFeed/Resources/Snippets/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/VisFeed/Dialogs/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/VisFeed/Layouts/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/VisFeed/Pages/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/Libraries/Package.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Themes/BWPS_Theme/StylesSet/CustomNumPadStyles.styles",
+		"//192.168.66.2/BWPapersystems/Users/UsersFile.usr",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/CE/SetupAxes/CE_SideAdj/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/CE/SetupAxes/CE_BlowLong/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/CE/SetupAxes/CE_BlowLeft/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/CE/SetupAxes/CE_InfeedNip/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/VisFeed/Pages/FolderFeedPage/FolderFeed.content",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Physical/GGX_Gen2/5APC2100_BY48_000/mappView/Bindings/Celeon.binding",
+		"/C/Users/butlerj2/Desktop/Celeon/missing.csv",
+		"/C/Users/butlerj2/Desktop/GGXHelp/GGX/enUS/Help/990.html",
+		"/C/Users/butlerj2/Documents/test/gitHelp/document.tex",
+		"/C/Users/butlerj2/Desktop/GearGrafix/GearGrafix/Logical/PrintUnits/Flexo_5/F5_Register/Register.var",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Texts/HTMLHeaders.tmx",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Physical/GGX_Gen2/5APC2100_BY48_000/mappView/FaultBarBindingsFe.binding",
+		"/C/Users/butlerj2/Desktop/GGXHelp/GGX/enUS/Help/0.html",
+		"/C/Users/butlerj2/Desktop/Celeon/createFaults.py",
+		"/C/Users/butlerj2/Desktop/Celeon/missingFaultsCELEON.py",
+		"/C/Users/butlerj2/Desktop/Scripts/missingFaultsGGX.py",
+		"/C/Users/butlerj2/Desktop/GGXHelp/GGX/enUS/Help/2230.html",
+		"/C/Users/butlerj2/Desktop/GGXHelp/GGX/enUS.txt",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/JobSetup/JobSetup/SetCmds.st",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Texts/SectionName.tmx",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/Resources/Media/Options_Edited.png",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/JobSetup/JobSetup/CalcCmds.st",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/JobSetup/JobSetup/C_DCRSC.st",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/JobSetup/JobSetup/Cyclic.st",
+		"/D/config.boot",
+		"/D/##linux.log",
+		"/C/Users/butlerj2/Desktop/GGXgen2/cleanwhitespace.sh",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Physical/GGX_Gen2/5APC2100_BY48_000/SafeLOGIC-GGXGen2/POE/Main/Code.xml",
+		"/C/Users/butlerj2/Desktop/notes.txt",
+		"/C/Users/butlerj2/Desktop/maxproRepo/BindingTempFile.html",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Physical/Physical.pkg",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView_Programs/AxisRecipe/DropDownAxes.st",
+		"/C/Users/butlerj2/Desktop/GGXgen2/missingFaultsGGX.py",
+		"/C/Users/butlerj2/Desktop/Scripts/cleanwhitespace.sh",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO8072149D/index.json",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO8071157D/channel.json",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO807A82EA/events-2018-00000-of-00001.json",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO807DBBEB/user.json",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO807074BB/oauth2_application.json",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO807111AA/events-2016-00000-of-00001.json",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO807D8B29/audit-log.json",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO807A3519/guild.json",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO8070FA79/events-2018-00000-of-00001.json",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Physical/GGX_Gen2/5APC2100_BY48_000/mappView/EventBindingFe.eventbinding",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/GeneralTasks/MachineConfig/MachineConfigCyclic.st",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO807D72C9/guild.json",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zO807BD399/README.txt",
+		"/E/setup.sh",
+		"/C/Users/butlerj2/Desktop/dnd.txt",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/PrintUnits/Flexo_4/F4_Ink/InkCyclic.ld",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/PrintUnits/Flexo_3/F3_Ink/InkCyclic.ld",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/PrintUnits/Flexo_6/F6_Ink/InkCyclic.ld",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/PrintUnits/Flexo_5/F5_Ink/InkCyclic.ld",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/PrintUnits/Flexo_7/F7_Ink/InkCyclic.ld",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/PrintUnits/Flexo_8/F8_Ink/InkCyclic.ld",
+		"/C/Users/butlerj2/AppData/Local/Temp/lsblk.sh.txt",
+		"/E/_ISO/MyE2B.cfg",
+		"/E/_ISO/ReadMe.txt",
+		"/E/_ISO/ReadMe_where_to_put_files.txt",
+		"/C/BrAutomation/AS42/Bin-en/VCS/SVN2/SharpSvn/Licenses/ZLib-License.txt",
+		"/C/BrAutomation/AS43/Bin-en/VCS/SVN2/SharpSvn/Licenses/Subversion-License.txt",
+		"/C/BrAutomation/AS42/Bin-en/VCS/SVN2/SharpSvn/Licenses/Serf-License.txt",
+		"/C/BrAutomation/AS42/Bin-en/VCS/SVN2/SharpSvn/Licenses/Putty-License.txt",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/Libraries/Events/Events.var",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Logical/mappView/VisFeed/Variables/sessionvarfe.svar",
+		"/C/Users/butlerj2/Desktop/GearGrafix/GearGrafixUpgrade/Physical/GGX_FFG_Shark2_X20CPU/Hardware.hw",
+		"/C/Users/butlerj2/Desktop/GearGrafix/GearGrafixUpgrade/AS/FrozenHardware/OSDD/X20SLSI4100.xosdd",
+		"/C/Users/butlerj2/GDrive/Software/License/BC4Key.txt",
+		"/C/Users/butlerj2/GDrive/Software/License/synergy.txt",
+		"/C/Users/butlerj2/Desktop/GearGrafix/GearGrafix - Copy/Physical/GGX_FFG_Shark2_X20CPU/Hardware.hw",
+		"/C/Users/butlerj2/AppData/Local/Temp/7zOC26DEE36/st.c",
+		"/C/bin/Cmder/config/git-prompt.sh",
+		"/C/bin/Cmder/config/ConEmu.xml",
+		"/C/Users/butlerj2/Documents/cartoondl/grabLinks.py",
+		"/C/Users/butlerj2/Documents/cartoondl/dlLinks.py",
+		"/C/bin/Cmder/config/.history",
+		"/C/Users/butlerj2/Desktop/GGXgen2/Physical/GGX_Gen2/5APC2100_BY48_000/mappView/NumPad_ComboBox/NP_Tags_MinMaxValue_CeleonUnitless.bindinglist",
+		"/C/Users/butlerj2/Desktop/Celeon/missingFaultsGGX.py",
+		"/C/Users/butlerj2/Desktop/GGXHelp/GGX/esMX.txt",
+		"/C/bin/Cmder/config/user-aliases.cmd",
+		"/C/bin/Cmder/config/user-aliases.sh",
+		"/C/bin/Cmder/config/user-profile.sh",
+		"/C/bin/Cmder/config/user-profile.ps1",
+		"/C/bin/Cmder/config/user-profile.cmd",
+		"/C/Users/butlerj2/source/repos/Dndoer/Dndoer/Properties/Resources.resx",
+		"/C/Users/butlerj2/source/repos/Dndoer/Dndoer/App.config",
+		"/C/bin/Cmder/config/settings",
+		"/C/Users/butlerj2/source/repos/Dndoer/Dndoer/bin/Debug/Dndoer.exe.config",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax29_BlowerTrim_DS/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/Master/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax16_KeyBelts_OPS_0_90/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax17_Infeed_OPS/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax18_KeyBelts_DS_0_90/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax19_Infeed_DS/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax20_KeyBelts_OPS_90_180/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax22_KeyBelts_DS_90_180/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax28_BlowerTrim_OPS/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax26_Rail_Vacuum_OPS/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax27_Rail_Vacuum_DS/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax25_Rail_DS/Cyclic.ld",
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax24_Rail_OPS/Cyclic.ld"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 220.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ref",
+			"faultBarWithWarning",
+			"opcUa.",
+			"Offset",
+			"SideAdjustment",
+			"::AsGlobalPV:PLK",
+			"(FG|CE)\\.Exists",
+			"\\[\\d+\\]",
+			"{",
+			", ",
+			"Axes\\[\\d+\\]",
+			"SettingUp",
+			"cmdReset.+",
+			".+Homing.+\\n",
+			"^\\r\\n$",
+			"^\\n$",
+			"F\\d",
+			">=",
+			"3\\d\\d;",
+			"Ref",
+			"^\\n$",
+			"^$",
+			".+<Parameter ID=\"Multiplexed\" Value=\"1\" />\\n",
+			"<Parameter ID=\"Multiplexed\" Value=\"1\" />",
+			"Opening_Motor",
+			"Opening_motor",
+			"jpg",
+			"(\\d+)",
+			"END_PROGRAM",
+			"\n</networks>",
+			"END_VAR",
+			"NF.Infeed_DS",
+			"NF.BlowerTrim_DS",
+			"NF.Infeed_DS",
+			"NF.Rail_Vacuum_DS",
+			"NF.Infeed_DS",
+			"END_PROGRAM",
+			"Logger_0.Status24 := CELEONMachine.statusFeedFaulted;\n\tLogger_0.Status25 := CELEONMachine.statusRunFaulted;\n\tLogger_0.Status26 := CELEONMachine.statusInManual;\n\tLogger_0.Status27 := CELEONMachine.statusReadyForAuto;",
+			"\tLogger_0.Status0 := Run.PackML.Starting;\n\tLogger_0.Status1 := Run.statusRunning;\n\tLogger_0.Status2 := Feed.Feeding;\n\tLogger_0.Status3 := Run.PackML.Stopping;\n\tLogger_0.Status4 := Run.PackML.Stopped;\n\tLogger_0.Status6 := AxisCtrl\\[\\w+\\].Status.InPosition;\n\tLogger_0.Status7 := AxisCtrl\\[\\w+\\].Status.InVelocity;\n\tLogger_0.Status8 := AxisCtrl\\[\\w+\\].Status.MoveActive;\n\tLogger_0.Status9 := AxisCtrl\\[\\w+\\].Status.TuningDone;",
+			"\tLogger_0.Status0 := Run.PackML.Starting;\n\tLogger_0.Status1 := Run.statusRunning;\n\tLogger_0.Status2 := Feed.Feeding;\n\tLogger_0.Status3 := Run.PackML.Stopping;\n\tLogger_0.Status4 := Run.PackML.Stopped;\n\tLogger_0.Status6 := AxisCtrl[PUSHER].Status.InPosition;\n\tLogger_0.Status7 := AxisCtrl[PUSHER].Status.InVelocity;\n\tLogger_0.Status8 := AxisCtrl[PUSHER].Status.MoveActive;\n\tLogger_0.Status9 := AxisCtrl[PUSHER].Status.TuningDone;",
+			"FeedNip",
+			"\\n",
+			"\\t",
+			"\n                </Variable>\n                <Variable Name=\"Limit\" Enable=\"True\">",
+			"ActualPosition",
+			"40\\d",
+			"Program:F(\\d)PrintButtonEnable",
+			"1",
+			"FeedStroke",
+			"ReturnPumpOverSpeed",
+			"CartonHSCL",
+			"(<<|>>)",
+			"::F3.MonitoredAxis.parmMin",
+			"<Variable Name=\"Vacuum\">",
+			"statusLagError",
+			"<<<<<",
+			"F1",
+			"NumInSupplyPump1?F\\d",
+			"NumInSupplyPumpF\\d",
+			"F1",
+			"<(S|T)",
+			"<(B|T)",
+			"Transfer.Flexo1",
+			"(NumericOutput\\d?F\\d\" top=\")\\d+\"",
+			"(MomButSupplyPumpInc1?F\\d\" top=\")\\d+\"",
+			"([bgPumpFlow]1?F1\" top=\")\\d+\"",
+			"(MomButSupplyPumpInc1?F\\d\" top=\")\\d+\"",
+			"1?\\d\\75",
+			"475",
+			"1050",
+			"950",
+			"850",
+			"750",
+			"650",
+			"550",
+			"NumericOutputF",
+			"zIndex=\"\\d+\"",
+			"zIndex=\"(\\d+)\"",
+			"F1",
+			"value",
+			"(uttonF\\d\" top=\"\\d+\" left=\")\\d+",
+			"(LabelF\\d\" top=\"\\d+\" left=\")\\d+",
+			"(DistF\\d\" top=\"\\d+\" left=\")\\d+",
+			"(TimeF\\d\" top=\")\\d+\"",
+			"(DistF\\d\" top=\")\\d+\"",
+			"(F\\d\" top=\")\\d+\"",
+			"(OutTimeF\\d\" top=\")\\d\\d\\d\"",
+			"F1",
+			"NULL\\d",
+			"Flexo 1",
+			"F1",
+			"ct_",
+			"JamDetect_0",
+			"JamDe",
+			"\"F6\"",
+			"\"F5\"",
+			"\"F\\d\"",
+			"\"F1\"",
+			"\"Register\">",
+			"\"Register\"",
+			"\"Min\"",
+			"\"Min",
+			"\"Max\"",
+			"\"F4\"",
+			"\"F4",
+			"F5",
+			"::F4",
+			"F4",
+			"F3",
+			"F2",
+			"F1",
+			".829:829e-830~833.831f",
+			"Axes[]",
+			":= 0(;\\n.+'F)(\\d)",
+			":= 0;'F(\\d)",
+			"204",
+			"Shark",
+			"Die Cutter",
+			"CE.Exists",
+			"F\\d.Exists(;\\n.+):= (\\d)",
+			"F\\d.Exists([.\\n]+)",
+			"F\\d.Exists([.+\\n\\t]:=",
+			"Axes\\[\\d*\\]",
+			":= TRUE;\n(.+ )16(\\d{3};)",
+			":= TRUE;\n(.+ 9\\d{3};)",
+			"DSGlueFrame",
+			"15(\\d{3})",
+			"SL2.DSSlot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"::HMI:CENF_HMI.GENERAL.HwStatus.plk.",
+			"Machine.Config.CeLeon",
+			"[NaN]",
+			"\\n",
+			"\\r",
+			"Axes[NaN]",
+			"Homing",
+			"statusSettingUp OR",
+			"",
+			"&gt;=",
+			"&gt;",
+			"",
+			"png",
+			"    <Object Type=\"File\">\\1.png</Object>",
+			"</networks>\nEND_PROGRAM",
+			"",
+			"\tLogger_0 : Logger := (0);\nEND_VAR",
+			"NF.BlowerTrim_DS",
+			"NF.BlowerTrim_OPS",
+			"NF.Rail_Vacuum_DS",
+			"NF.Rail_Vacuum_OPS",
+			"NF.Rail_DS",
+			"NF.Rail_OPS",
+			"NF.KeyBelts_DS_90_180",
+			"NF.Skewing_DS",
+			"NF.Skewing_OPS",
+			"NF.KeyBelts_OPS_90_180",
+			"NF.KeyBelts_DS_0_90",
+			"NF.KeyBelts_OPS_0_90",
+			"NF.Infeed_OPS",
+			"<network label=\"\" comment=\"\" row=\"46\" column=\"0\" commented=\"0\">\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"header\" name=\"Logger_0\" type=\"Logger\"/>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"NF.Infeed_DS.statusErrorID\"/>\n\t\t\t<functionblock position=\"top\" type=\"Logger\"><input name=\"Code\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"FG_DSINFEED_EVENT\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"EventType\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<contact type=\"address\" name=\"gEventLog\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"EventLog\" vardynamic=\"true\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"FromGGX.statusLocked\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status0\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"FromGGX.statusRunning\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status1\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"FromGGX.statusFeeding\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status2\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"CELEONMachine.statusInAuto\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status3\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"FromGGX.statusEStopsOK\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status4\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"FromGGX.statusSafetyOK\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status5\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"CELEONMachine.statusAirPressureOK\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status6\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status7\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status8\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status9\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status10\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status11\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status12\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status13\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status14\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status15\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status16\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status17\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status18\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status19\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status20\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status21\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status22\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status23\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status24\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"CELEONMachine.statusFeedFaulted\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status25\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"CELEONMachine.statusRunFaulted\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status26\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"CELEONMachine.statusInManual\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status27\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"CELEONMachine.statusSafetyOK\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status28\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"CELEONMachine.statusInAlarm\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status29\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"CELEONMachine.statusReadyForAuto\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status30\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"CELEONMachine.statusInEmergency\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Status31\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"Production.Par.Out.ActualSpeed\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"StatusValue1\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"NF.Infeed_DS.statusSpeed\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"StatusValue2\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"NF.Infeed_DS.statusCurrent\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"StatusValue3\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"NF.Infeed_DS.statusLagError\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"StatusValue4\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"NF.Infeed_DS.statusTemperature\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"StatusValue5\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Reset\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"'Faults'\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Task\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Location\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<analog type=\"input\" name=\"FAULT_EVENT\"/>\n\t\t\t<functionblock position=\"middle\" type=\"Logger\"><input name=\"Level\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t\t<row>\n\t\t\t<empty/>\n\t\t\t<empty/>\n\t\t\t<functionblock position=\"bottom\" type=\"Logger\"><input name=\"IgnoreZero\"/></functionblock>\n\t\t\t<empty/>\n\t\t</row>\n\t</network>\nEND_PROGRAM",
+			"Logger_0.Status25 := CELEONMachine.statusFeedFaulted;\n\tLogger_0.Status26 := CELEONMachine.statusRunFaulted;\n\tLogger_0.Status27 := CELEONMachine.statusInManual;",
+			"\tLogger_0.Status0 := FromGGX.statusLocked;\n\tLogger_0.Status1 := FromGGX.statusRunning;\n\tLogger_0.Status2 := FromGGX.statusFeeding;\n\tLogger_0.Status3 := CELEONMachine.statusInAuto;\n\tLogger_0.Status4 := FromGGX.statusEStopsOK;\n\tLogger_0.Status5 := FromGGX.statusSafetyOK;\n\tLogger_0.Status6 := CELEONMachine.statusAirPressureOK;\n\tLogger_0.Status24 := CELEONMachine.statusFeedFaulted;\n\tLogger_0.Status25 := CELEONMachine.statusRunFaulted;\n\tLogger_0.Status26 := CELEONMachine.statusInManual;\n\tLogger_0.Status27 := CELEONMachine.statusReadyForAuto;\n\tLogger_0.Status28 := CELEONMachine.statusSafetyOK;\n\tLogger_0.Status29 := CELEONMachine.statusInAlarm;\n\tLogger_0.Status30 := CELEONMachine.statusReadyForAuto;",
+			"BeltsLifter",
+			"\\\\r\\\\n",
+			"\\\\t",
+			"\n                  <Variable Name=\"ErrorDescription\" Enable=\"True\" />\n                  <Variable Name=\"ErrorID\" Enable=\"True\" />\n                </Variable>\n                <Variable Name=\"Limit\" Enable=\"True\">",
+			"<Variable Name=\"ErrorDescription\" Enable=\"True\" />\n                  <Variable Name=\"ErrorID\" Enable=\"True\" />\n                </Variable>\n                <Variable Name=\"Limit\" Enable=\"True\">",
+			"ErrorDescription",
+			"405",
+			"404",
+			"403",
+			"402",
+			"AsGlobalPV:F\\1.Active",
+			"NULL",
+			"FNULL",
+			"\\t<\\1",
+			"Transfer.FlexoNULL",
+			"\\1NULL\"",
+			"NULL",
+			"zIndex=\"NULL\"",
+			"FNULL",
+			"node",
+			"\\1755",
+			"\\1200",
+			"\\1345",
+			"\\1345\"",
+			"\\1300\"",
+			"\\1225\"",
+			"\\1NULL\"",
+			"FNULL",
+			"NULL",
+			"Flexo NULL",
+			"FNULL",
+			"JamDetect_NULL",
+			"\"parmMin\"",
+			"\"parmMax\"",
+			"F4",
+			"F5",
+			"F4",
+			"F3",
+			"F2",
+			"Axes[null]",
+			":= \\2\\1\\2",
+			"901",
+			"F\\2.Exists\\1:= \\2",
+			"Axes[]",
+			":= CE.Exists;\n\\110\\2",
+			":= FG.Exists;\n\\110\\2",
+			":= FG.Exists;\n\\1",
+			"DS_GlueFrame",
+			"9\\1",
+			"SL2.\\1S_Slot",
+			"SL2.\\2S_Slot",
+			"\\1\\2S_Slot",
+			"Slot",
+			"\\1\\2S_Slot",
+			"14\\1",
+			"SL2",
+			"Axes[]",
+			"",
+			"\\t//\\1",
+			"\\t\\1",
+			"\\1103; // AKA Anilox Nip",
+			".Enable := F\\2.Exists;\\n\\1\\2\\3",
+			".Enable := F\\2.Exists;\\n.+\\1\\2\\3",
+			".Enable := F\\1.Exists;\\n.+\\1\\2",
+			"ClientColors",
+			"session.VariableAction",
+			"\\19",
+			"\\18",
+			"\\17",
+			"\\16",
+			"\\15",
+			"btn5",
+			"",
+			"::AsGlobalPV:F\\1.Exists",
+			"",
+			" ",
+			"[7]",
+			"[4]",
+			"[3]",
+			"410",
+			"Unit 4",
+			"Num := 4",
+			"[2]",
+			"Num := 3",
+			"Unit 3",
+			"[2]",
+			"[1]",
+			"FlexoNum := 2",
+			"Print Unit 2",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4572,
+								4572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/scripts.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.loghighlight":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 128.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
