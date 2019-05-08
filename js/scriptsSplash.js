@@ -1,9 +1,4 @@
-/*  Copyright 2014 gokoururi
-	This work is free. You can redistribute it and/or modify it under the
-	terms of the Do What The Fuck You Want To Public License, Version 2,
-	as published by Sam Hocevar. See the COPYING file for more details. */
-
-/*  Remove mascot class from element "main" if its width is <= mascotMinWidth */
+*  Remove mascot class from element "main" if its width is <= mascotMinWidth */
 function controlMascot(mascot, mascotMinWidth) {
 	$(window).resize(function(event) {
 		if ( $(window).width() <= mascotMinWidth && $("main").hasClass("mascot") ) {
@@ -29,22 +24,15 @@ function removeMascot() {
 $(document).ready(function(event) {
 	var mascotEnable    = true;
 	var mascotPath      = "images/mascots/"
-	var mascotList      = [ // Inapropriate images marked with //*
+	var mascotList      = [ /
 			'mikasa.png',
-			//*'yoko.png',
 			'sakata.png',
 			'aang.png',
 			'akane.png',
 			'akane2.png',
 			'kogami.png',
 			'akaneKogami.png',
-			//*'chitoge.png',
-			//*'onodera.png',
-			//*'onodera2.png',
-			//*'ryo.png',
-			//*'erza.png',
 			'ryuko2.png',
-			//'chiho.png',
 			'FarmerSteven.png',
 			'morty.png',
 			'regular.png',
