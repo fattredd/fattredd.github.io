@@ -195,23 +195,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 3954,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "robots.txt",
-			"settings":
-			{
-				"buffer_size": 36,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -410,6 +393,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/butlerj2/Documents/fattredd.github.io/index.html",
 		"/C/Users/butlerj2/Documents/fattredd.github.io/js/scripts.js",
 		"/C/Users/butlerj2/Documents/fattredd.github.io/robots.txt",
 		"/C/Users/butlerj2/Documents/fattredd.github.io/splash.html",
@@ -536,8 +520,7 @@
 		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax19_Infeed_DS/Cyclic.ld",
 		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax20_KeyBelts_OPS_90_180/Cyclic.ld",
 		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax22_KeyBelts_DS_90_180/Cyclic.ld",
-		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax28_BlowerTrim_OPS/Cyclic.ld",
-		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax26_Rail_Vacuum_OPS/Cyclic.ld"
+		"/C/Users/butlerj2/Desktop/Celeon/Logical/FO/RunAxes/NF_Ax28_BlowerTrim_OPS/Cyclic.ld"
 	],
 	"find":
 	{
@@ -824,67 +807,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3954,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2722,
-								2722
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 670.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "robots.txt",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 36,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
