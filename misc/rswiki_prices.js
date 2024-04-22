@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         RSwiki Price buyin
-// @namespace    http://tampermonkey.net/
+// @namespace    http://fattredd.com/
 // @version      1.0
 // @description  Show the total cost to buy as many as possible
 // @author       fattredd
